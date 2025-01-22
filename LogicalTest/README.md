@@ -1,7 +1,7 @@
 
 # Solusi Masalah Logika dengan Go
 
-Repositori ini berisi solusi dari beberapa soal logika pemrograman yang ditulis dalam *Go*. Setiap soal telah diselesaikan menggunakan kode yang efisien dan sesuai dengan ketentuan soal.
+Repositori ini berisi solusi dari beberapa soal logika pemrograman yang ditulis dalam *Go*. Setiap soal telah diselesaikan menggunakan kode yang efisien dan sesuai dengan ketentuan soal. 
 
 ## Deskripsi Soal
 
