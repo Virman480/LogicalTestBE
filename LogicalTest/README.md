@@ -34,7 +34,7 @@ Repositori ini berisi solusi dari beberapa soal logika pemrograman yang ditulis 
 
 1. Clone repositori ini:
    bash
-   git clone https://github.com/username/repositori-anda.git
+   git clone  https://github.com/Virman480/LogicalTestBE.git
    
 2. Masuk ke direktori proyek:
    bash
